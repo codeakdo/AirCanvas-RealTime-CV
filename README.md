@@ -47,4 +47,4 @@ We're keeping it lean and mean:
 Got an idea to make it track Red? Green? Or maybe make it shoot lasers? (Okay, maybe not lasers... yet). Feel free to fork, star, and send pull requests. Let's make this even cooler together!
 
 ---
-*Built with ❤️ COdeAkdo and a lot of blue objects.*
+*Built with ❤️ CodeAkdo and a lot of blue objects.*
