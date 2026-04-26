@@ -8,7 +8,7 @@ This project isn't just a script; it's your first step into the world of Compute
 
 *   **🎯 Real-Time Detection:** Spot blue objects faster than you can say "OpenCV".
 *   **✍️ Ghost Trails:** It doesn't just see you; it remembers where you've been. It draws a cool red trail (last 100 points) following your blue object's movement.
-*   **📏 Precision Tracking:** Get live X and Y coordinates displayed right on your screen. You're basically a NASA engineer now.
+*   **📏 Precision Tracking:** Get live X and Y coordinates displayed right on your screen. You're basically a NASA engineer in your local now.
 *   **🖼️ Smart Filtering:** Ignores the small noise and focuses on the "big fish" (objects with an area > 500).
 
 ## 🛠️ Tech Stack
